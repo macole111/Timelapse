@@ -1,4 +1,4 @@
-#markcole timelapse
+# markcole timelapse
 
 This project contains the scripts that power http://timelapse.markcole.uk - a daily timelapse video that shows the view outside my apartment.
 
